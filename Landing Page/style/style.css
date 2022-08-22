@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(40,40,44);
+    color: white;
+    max-width: 700px;
+    padding: 45px;
+    font-family: Istok Web;
+}
+h1{
+    position: relative;
+    display: flex;
+    left: 13%;
+    right: 50%;
+    top: 12px;
+}
+h2{
+    display: flex;
+    color: rgb(66, 229, 39);
+    text-decoration-line: underline;
+    border-style: solid; 
+    padding: 10px;
+    font-size: 20px;
+    font-family: Istok Web;
+    max-width: 450px;
+}
+h2:hover{
+    background-color: rgb(66, 229, 39);
+    color: rgba(26, 48, 26, 1);
+    transition: 0.3s;
+}
+h3{
+    font-family: Istok Web;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 43px;
+}
+figcaption{
+    display: flex;
+    color: rgb(66, 229, 39);
+    font-family: Istok Web;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 150px;
+    text-decoration-line: underline;
+}
+.cab{
+    display: flex;
+    color: rgb(66, 229, 39);
+    font-family: Inter 'Bold';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20%;
+}
+.logo{
+    position: relative;
+    display: flex;
+    left: -60%;
+    right: 1%;
+}
+.image{
+    position: absolute;
+    left: 48.84%;
+    right: 3.75%;
+    top: 4.62%;
+    bottom: 10.13%;
+    display: flex;
+}
+.games{
+    position: absolute;
+    display: flex;
+    left: 0.5%;
+    right: 10%;
+    top: 60%;
+}
+footer{
+    display: flex;
+    position: absolute;
+    left: 35.42%;
+    right: 35.42%;
+    top: 97%;
+    max-width: 500px;
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 120%;
+    text-align: center; 
+}
