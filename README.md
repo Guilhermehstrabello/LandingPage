@@ -1,4 +1,4 @@
-<img src="img/Project.png">
+<img src="images/Project.png">
 
 # Landing Page
 
